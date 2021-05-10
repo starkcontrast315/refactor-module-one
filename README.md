@@ -19,7 +19,12 @@ Refactoring webpage assignment.
 5. WHEN I view the title element:
 **THEN I find a concise, descriptive title.
 
+***
 
-[URL of deployed application](https://starkcontrast315.github.io/refactor-module-one/
+[URL of deployed application](https://starkcontrast315.github.io/refactor-module-one/)
+
 [URL of Github repository](https://github.com/starkcontrast315/refactor-module-one)
+
 [URL of README](./README.md)
+
+***

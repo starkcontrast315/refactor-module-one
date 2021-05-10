@@ -1,8 +1,8 @@
-# Module-one
+## Module-one-refactoring challenge
 Refactoring webpage assignment.
 
-## Acceptance Criteria:
-###GIVEN a webpage meets accessibility standards:
+### Acceptance Criteria:
+###$GIVEN a webpage meets accessibility standards:
 
 1. WHEN I view the source code:
 **THEN I find semantic HTML elements.
@@ -20,6 +20,7 @@ Refactoring webpage assignment.
 **THEN I find a concise, descriptive title.
 
 ***
+###Links
 
 [URL of deployed application](https://starkcontrast315.github.io/refactor-module-one/)
 

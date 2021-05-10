@@ -1,6 +1,7 @@
 ## Module-one-refactoring challenge
 Refactoring webpage assignment.
 
+
 ### Acceptance Criteria:
 #### GIVEN a webpage meets accessibility standards:
 
@@ -26,6 +27,8 @@ Refactoring webpage assignment.
 
 [URL of Github repository](https://github.com/starkcontrast315/refactor-module-one)
 
-[URL of README](./README.md)
+[URL of README (this thing here)](./README.md)
 
 ***
+
+Thanks for reading. 

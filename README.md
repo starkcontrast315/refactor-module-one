@@ -1,6 +1,8 @@
 ## Module-one-refactoring challenge
 Refactoring webpage assignment.
 
+![Screenshot](./css/images/scrnshot.png)
+
 
 ### Acceptance Criteria:
 #### GIVEN a webpage meets accessibility standards:

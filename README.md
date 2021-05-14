@@ -1,7 +1,7 @@
 ## Module-one-refactoring challenge
 Refactoring webpage assignment.
 
-![Screenshot](./css/images/scrnshot.png)
+![Screenshot](./assets/images/scrnshot.png)
 
 
 ### Acceptance Criteria:
